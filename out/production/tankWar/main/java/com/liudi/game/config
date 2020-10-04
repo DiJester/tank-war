@@ -1,0 +1,14 @@
+#Game Config
+#Video
+GameWidth=800
+GameHeight=600
+GameMargin=10
+FrameInterval=20
+#Game
+EnemyNumber=20
+InitialTankCount=5
+TankSpeed=5
+BulletSpeed=10
+TerrainUnitWidth=20
+TerrainUnitHeight=10
+FireInterval=800
